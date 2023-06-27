@@ -6,6 +6,7 @@ database/*.db
 
 # Environmenr
 .env
+.env.test
 
 # Build
 build
